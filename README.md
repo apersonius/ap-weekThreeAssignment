@@ -13,7 +13,7 @@ N/A
 Click on the generate password button on the page and answer the prompts for length of password, and inclusion of upper case letters, lower case letters, numbers, or symbols. The password will be generated and appear on the screen. Copy the generated password. 
 
 
-![screenshot](Screenshot 2022-12-21 at 6.50.14 AM.png)
+![image](https://raw.githubusercontent.com/apersonius/ap-weekThreeAssignment/main/Screenshot%202022-12-21%20at%206.50.14%20AM.png)
 
 ## Credits
 
